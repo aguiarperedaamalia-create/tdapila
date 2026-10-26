@@ -1,8 +1,8 @@
-# TDA Pila — Java (VS Code)
+TDA Pila — Java
 
 Implementación enlazada del TDA Pila.
 
-## Estructura
+Estructura
 
 ```
 TDA-Pila/
@@ -19,18 +19,18 @@ TDA-Pila/
 └── lib/                   # Dependencias (vacío)
 ```
 
-## Cómo ejecutar
+Cómo ejecutar
 
-**En VS Code:** abrir la carpeta `TDA-Pila` (con el *Extension Pack for Java* instalado), abrir `Main.java` y pulsar **Run**.
+En VS Code: abrir la carpeta `TDA-Pila` (con el Extension Pack for Java instalado), abrir `Main.java` y pulsar **Run.
 
-**Por terminal:**
+Por terminal:
 
 ```
 javac -d bin src/*.java
 java -cp bin Main
 ```
 
-## Salida esperada
+Salida esperada
 
 ```
 LinkedStack
